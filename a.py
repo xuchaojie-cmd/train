@@ -2,5 +2,6 @@ name=manager1
 name=zhangsan1
 name=manager2
 name=zhangsan2
-work=1
 
+work=1
+manager=1
